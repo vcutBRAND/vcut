@@ -11,6 +11,7 @@ Clone This Repo.. `git-clone https://github.com/vcutBRAND/vcut.git`
    chmod +x *
    ./bgmi <ip> <port> <time (s)> <80>
    ```
+   Example: `30.342.26.237 29564 300 80`
 2. For Stop the Program: `CTRL+C`
 
 # Rule
